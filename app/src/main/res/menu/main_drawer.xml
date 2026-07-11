@@ -7,12 +7,12 @@
     <group android:checkableBehavior="single">
 
         <item
-            android:id="@+id/main_item_1"
-            android:title="Item 1"/>
+            android:id="@+id/firstFragment"
+            android:title="Fragment 1"/>
 
         <item
-            android:id="@+id/main_item_2"
-            android:title="Item 2"/>
+            android:id="@+id/secondFragment"
+            android:title="Fragment 2"/>
 
     </group>
 
